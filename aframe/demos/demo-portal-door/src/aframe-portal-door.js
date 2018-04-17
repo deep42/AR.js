@@ -8,11 +8,11 @@ AFRAME.registerComponent('arjs-portal-door', {
 		},
 		doorWidth : {	// width of the door
 			type: 'number',
-			default: 1,
+			default: 1.5,
 		},
 		doorHeight : {	// height of the door
 			type: 'number',
-			default: 2,
+			default: 1.5,
 		},
 	},
 	init: function () {
